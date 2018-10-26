@@ -33,7 +33,7 @@ sap.ui.define([
 			for (var i = 0; i < oModel.length; i++){
 				//data[i]=[oData.results[i].Id,oData.results[i].Fname,oData.results[i].Lname,oData.results[i].Phoneno];
 				//if Model name is DataModel
-				data[i] = [oModel[i].model, oModel[1].fields.country, oModel[1].fields.code];
+				data[i] = [oModel[i].model, oModel[i].fields.country, oModel[i].fields.code];
 			}
 			var doc = new jsPDF('p', 'pt');
 			doc.autoTable(columns, data);
