@@ -1,0 +1,139 @@
+{
+	"data": [{
+		"pk": 3,
+		"model": "climatedata.organization",
+		"fields": {
+			"url": "http://www.ec.gc.ca/ccmac-cccma/",
+			"country": "Canada",
+			"code": "CCCma",
+			"name": "Canadian Centre for Climate Modelling and Analysis"
+		}
+	}, {
+		"pk": 2,
+		"model": "climatedata.organization",
+		"fields": {
+			"url": "http://bcc.cma.gov.cn/",
+			"country": "China",
+			"code": "BCC",
+			"name": "Beijing Climate Center, National Climate Center"
+		}
+	}, {
+		"pk": 1,
+		"model": "climatedata.organization",
+		"fields": {
+			"url": "http://www.bjerknes.uib.no/",
+			"country": "Norway",
+			"code": "BCCR",
+			"name": "Bjerknes Centre for Climate Research"
+		}
+	}, {
+		"pk": 5,
+		"model": "climatedata.organization",
+		"fields": {
+			"url": "http://www.cnrm.meteo.fr/",
+			"country": "France",
+			"code": "CNRM",
+			"name": "Centre National de Recherches Meteorologiques"
+		}
+	}, {
+		"pk": 6,
+		"model": "climatedata.organization",
+		"fields": {
+			"url": "http://www.cmar.csiro.au/",
+			"country": "Australia",
+			"code": "CSIRO",
+			"name": "CSIRO Atmospheric Research"
+		}
+	}, {
+		"pk": 7,
+		"model": "climatedata.organization",
+		"fields": {
+			"url": "http://www.gfdl.noaa.gov/",
+			"country": "USA",
+			"code": "GFDL",
+			"name": "US Dept. of Commerce / NOAA / Geophysical Fluid Dynamics Laboratory"
+		}
+	}, {
+		"pk": 8,
+		"model": "climatedata.organization",
+		"fields": {
+			"url": "http://www.giss.nasa.gov/",
+			"country": "USA",
+			"code": "GISS",
+			"name": "Goddard Institute for Space Studies (GISS), NASA, USA"
+		}
+	}, {
+		"pk": 9,
+		"model": "climatedata.organization",
+		"fields": {
+			"url": "http://www.inm.ras.ru/inm_en_ver/index.htm",
+			"country": "Russia",
+			"code": "INM",
+			"name": "Institute of Numerical Mathematics, Russian Academy of Science"
+		}
+	}, {
+		"pk": 10,
+		"model": "climatedata.organization",
+		"fields": {
+			"url": "http://www.ipsl.fr/",
+			"country": "France",
+			"code": "IPSL",
+			"name": "Institut Pierre Simon Laplace"
+		}
+	}, {
+		"pk": 11,
+		"model": "climatedata.organization",
+		"fields": {
+			"url": "http://www.nies.go.jp/gaiyo/index-e.html",
+			"country": "Japan",
+			"code": "NIES",
+			"name": "National Institute for Environmental Studies"
+		}
+	}, {
+		"pk": 12,
+		"model": "climatedata.organization",
+		"fields": {
+			"url": "http://www2.meteo.uni-bonn.de/forschung/gruppen/tgwww/index_english.html",
+			"country": "Germany",
+			"code": "MIUB",
+			"name": "Meteorological Institute of the University of Bonn"
+		}
+	}, {
+		"pk": 13,
+		"model": "climatedata.organization",
+		"fields": {
+			"url": "http://www.mpimet.mpg.de/",
+			"country": "Germany",
+			"code": "MPI",
+			"name": "Max Planck Institute for Meteorology"
+		}
+	}, {
+		"pk": 14,
+		"model": "climatedata.organization",
+		"fields": {
+			"url": "http://www.mri-jma.go.jp/",
+			"country": "Japan",
+			"code": "MRI",
+			"name": "Meteorological Research Institute"
+		}
+	}, {
+		"pk": 15,
+		"model": "climatedata.organization",
+		"fields": {
+			"url": "http://ncar.ucar.edu/",
+			"country": "USA",
+			"code": "NCAR",
+			"name": "National Center for Atmospheric Research"
+		}
+	}, {
+		"pk": 16,
+		"model": "climatedata.organization",
+		"fields": {
+			"url": "http://www.metoffice.gov.uk/climate-change/resources/hadley",
+			"country": "UK",
+			"code": "UKMO-HAD",
+			"name": "Hadley Centre for Climate Prediction and Research / Met Office"
+		}
+	
+	}]
+}
